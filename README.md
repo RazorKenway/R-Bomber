@@ -15,7 +15,7 @@
 <br>
 
 
-This is a Very powerfull SMS Bomber tool for termux users.
+* This is a Very powerfull SMS Bomber tool for termux users.
 Send 300 SMS in 1 second .Amazing project.In addition, 
 the unique item here is the ability to send SMS to several numbers at once.
 
