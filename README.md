@@ -21,9 +21,10 @@ the unique item here is the ability to send SMS to several numbers at once.
 
 
 ## Unique Performance 
-* You can send between 200 - 500 SMS per second.
+* You can send between 100 - 300 SMS per second.
+* No waiting time (this is special )
 * Multy Blaster Option 
-* You can send an SMS to a number list at a single time
+* You can send SMS to a number list at a single time
 
 
 ## INSTALLATION [Termux] [Linux] :
