@@ -16,12 +16,12 @@
 
 
 * This is a Very powerfull SMS Bomber tool for termux users.
-Send 300 SMS in 1 second .Amazing project.In addition, 
+Send 60 SMS in 1 second .Amazing project.In addition, 
 the unique item here is the ability to send SMS to several numbers at once.
 
 
 ## Unique Performance 
-* You can send between 100 - 300 SMS per second.
+* You can send between 50 - 60 SMS per second.
 * No waiting time (this is special )
 * Multy Blaster Option 
 * You can send SMS to a number list at a single time
