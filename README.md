@@ -1,6 +1,6 @@
 # R-Bomber
 <a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-R Bomber-brightgreen?style=for-the-badge&logo=appveyor"></a>
-## Video Lesson : 
+## Video Lesson : https://youtu.be/AOL3G7eikLs
 <img src="R-Bomber.png"/>
 
 
